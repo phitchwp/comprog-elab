@@ -6,7 +6,7 @@ Output:
 How many visitors?: 3
 Total price is 300 baht.
 ```
-#### **2. Will you sleep?**
+#### **2. Can you sleep?**
 
 If this day was a vacation day and a weekday. You can sleep.
 
