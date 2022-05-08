@@ -1,12 +1,12 @@
 ## Midterm 1 Practice Tasks 2021
-**1. Zoo ticket price**
+#### **1. Zoo ticket price**
 
 Output:
 ```
 How many visitors?: 3
 Total price is 300 baht.
 ```
-**2. Will you sleep?**
+#### **2. Will you sleep?**
 
 If this day was a vacation day and a weekday. You can sleep.
 
@@ -37,7 +37,7 @@ Is a week day?(y/n): n
 Is a vacation?(y/n): y
 You can sleep.
 ```
-**3. Above Average**
+#### **3. Above Average**
 Output:
 ```
 Please enter a: 3
@@ -74,7 +74,7 @@ Please enter d: 2
 3.0
 2.0
 ```
-**4. Water Unit Calculator**
+#### **4. Water Unit Calculator**
 
 0-7 units = 110฿/unit (เหมาจ่าย)
 
