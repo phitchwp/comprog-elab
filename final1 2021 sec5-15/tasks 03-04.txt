@@ -1,0 +1,38 @@
+ข้อ 3: ดึงข้อมูลจากไฟล์ .txt ที่เก็บข้อมูลนี้
+
+D8,7058,75
+D9,9276,72
+D10,9326,91
+D11,9539,86
+D12,8656,80
+D13,8685,56
+D14,9317,87
+D15,9186,98
+
+Input & Output
+
+a. Query the number of days
+b. Print total number of confirmed cases and deaths
+c. Print confirmed cases and deaths summary
+d. Query the mean of confirmed cases
+e. Query the number of days which confirmed cases > mean of confirm cases 
+x. Quit
+
+==============================================================================
+
+ข้อ 4: คล้ายข้อ 3
+
+Steven:Gerrard:10:2015
+Frank:Lampard:20:2013
+Fernando:Torres:25:2012
+Steven:Gerrard:8:2012
+Luis:Suarez:28:2018
+Mohamed:Salah:20:2020
+Jamie:Vardy:10:2017
+Fernando:Torres:30:2014
+Christiano:Ronaldo:30:2014
+Diogo:Jota:8:2014
+Ferran:Torres:15:2020
+Xabi:Alonso:20:2021
+Jamie:Vardy:20:2021
+Andy:Cole:25:2021
