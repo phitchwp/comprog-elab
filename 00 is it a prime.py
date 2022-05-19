@@ -12,7 +12,7 @@ def isprime(n):
 while True:
     n = input("Enter an integer (or [Enter] to quit): ")
     if n == "":
-        print("Bye!")
+        print("Exit")
         sys.exit()
     n = int(n)
     if isprime(n):
