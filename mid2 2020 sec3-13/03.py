@@ -1,4 +1,4 @@
-from mart import pi,sin,cos
+from math import pi,sin,cos
 
 a = float(input("a: "))
 b = float(input("b: "))
